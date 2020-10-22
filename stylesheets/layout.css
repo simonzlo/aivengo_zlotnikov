@@ -1,5 +1,64 @@
 body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: 'EB Garamond', serif;
 }
 
-h1, h2, h3 { font-family: 'EB Garamond', serif;
+h1, h2, h3, p, p1, p2, p3 { font-family: 'EB Garamond',;
+}
+
+h1 {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 72px;
+  /* or 100% */
+  letter-spacing: 0.01em;
+}
+
+h2 {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 48px;
+/* identical to box height, or 120% */
+}
+
+p {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 32px;
+  /* identical to box height, or 114% */
+  letter-spacing: 0.01em;
+}
+
+p1 {
+  font-family: "EB Garamond Italic";
+  font-style: italic;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 32px;
+  /* identical to box height, or 114% */
+  letter-spacing: 0.01em;
+}
+
+p2 {
+  font-family: "EB Garamond Medium";
+  font-style: italic;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 48px;
+  /* identical to box height, or 120% */
+  letter-spacing: 0.01em;
+}
+
+p3 {
+  font-family: "EB Garamond Italic";
+  font-style: italic;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 48px;
+  /* identical to box height, or 120% */
+  letter-spacing: 0.01em;
 }
