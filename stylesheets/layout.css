@@ -43,6 +43,7 @@ p {
   line-height: 32px;
   /* identical to box height, or 114% */
   letter-spacing: 0.01em;
+  color: black;
 }
 
 .p4 + p {
@@ -101,7 +102,7 @@ h2 + h2 {
   color: white;
 }
 
-.hb14-1, .hb12, .hb10-1-1 {
+.hb14-1, .hb10-1-1 {
   font-family: EB Garamond Medium;
   font-style: italic;
   font-weight: 500;
@@ -115,6 +116,11 @@ h2 + h2 {
   color: white;
   align: center;
 }
+
+.hb12-1 {
+  color: white;
+}
+
 
 .p3 {
   font-family: "EB Garamond Italic";
